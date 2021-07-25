@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [@rakutentech](https://github.com/rakutentech/)
 - 🌱 I’m currently learning Testing 
-- 👯 I’m looking to collaborate on funtastic npm tools
+- 👯 I’m looking to collaborate on fantastic npm tools
 - 📫 How to reach me: [@freddiefujiwara](https://twitter.com/freddiefujiwara)
 
 <!--
